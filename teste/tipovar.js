@@ -16,3 +16,4 @@ var qualquer; // Declara a variável qualquer sem atribuição de valor. O JavaS
 console.log(qualquer); // Exibe o valor da variável qualquer. Resultado: undefined.
 console.log(typeof(qualquer)); // Mostra o tipo da variável qualquer. Resultado: "undefined".
 
+// Comentário para teste de GIT

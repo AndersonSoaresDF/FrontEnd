@@ -7,3 +7,4 @@ console.log(oper.soma(x, y)); // Chama a função soma() a partir do módulo imp
 
 console.log(oper.subtrair(y, x)); // Chama a função subtrair() do mesmo módulo: Executa subtrair(5, 3) → resultado: 2
 
+// Aula sobre GIT e GITHUB
